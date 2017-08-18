@@ -1,0 +1,52 @@
+#course code | subject name | class | Hours/Week
+0101 | Religion A | A | 2 
+0102 | Religion B | B | 2 
+0103 | Religion C | C | 2
+0211 | Ancient Greek A | A | 5 
+0212 | Ancient Greek B | B | 5 
+0213 | Ancient Greek C | C | 5
+0221 | Greek A | A | 3
+0222 | Greek B | B | 2 
+0223 | Greek C | C | 2
+0231 | Literature A | A | 2
+0232 | Literature B | B | 2
+0233 | Literature C | C | 2
+0241 | History A | A | 2 
+0242 | History B | B | 2
+0243 | History C | C | 2
+0301 | Maths A | A | 4
+0302 | Maths B | B | 4
+0303 | Maths C | C | 4
+#a comment
+0411 | Science A | A | 1
+0412 | Science B | B | 2
+0413 | Science C | C | 2
+0422 | Chemistry B | B | 2
+0423 | Chemistry C | C | 1
+0431 | Biology A | A | 2
+0433 | Biology C | C | 2
+0441 | Geography A | A | 2
+0442 | Geography B | B | 2
+0501 | Foreign A | A | 2
+0502 | Foreign B | B | 2
+0503 | Foreign C | C | 2
+0601 | English A | A | 2
+0602 | English B | B | 2
+0603 | English C | C | 2
+0801 | Paint A | A | 1
+0802 | Paint B | B | 1
+0803 | Paint C | C | 1
+1101 | PE A | A | 3
+1102 | PE B | B | 2
+1103 | PE C | C | 2
+#another comment
+#extra comment
+1201 | Technology A | A | 1
+1202 | Technology B | B | 1
+1501 | Economy A | A | 2
+1502 | Economy B | B | 2 
+1503 | Economy C | C | 2
+1601 | Music A | A | 1
+1602 | Music B | B | 1
+1603 | Music C | C | 1
+#last comment
